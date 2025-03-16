@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpatel976&label=Profile%20views&color=0e75b6&style=flat" alt="devpatel976" /> </p>
 
@@ -7,11 +7,15 @@
 
 - 🔭 I’m currently working on **Blockchain Technology**
 
+- 🌱 I’m currently learning **Aptos and Move api**
+
+- 👯 I’m looking to collaborate on **various projects!**
+
 - 💬 Ask me about **React, JavaScript, C++, C**
 
 - 📫 How to reach me **pateldev098765@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
