@@ -8,20 +8,22 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://dev-info.in/"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--info.in-00e5ff?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a href="https://waste-on-wheels.vercel.app"><img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a href="https://my-aether.vercel.app"><img src="https://img.shields.io/badge/🧠_AetherAI-Live_Demo-9945FF?style=for-the-badge&labelColor=0a0a0a" /></a>
+<!-- SOCIAL BADGES — all open in new tab -->
+<a href="https://dev-info.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--info.in-00e5ff?style=for-the-badge&labelColor=0a0a0a" /></a>
+<a href="https://waste-on-wheels.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" /></a>
+<a href="https://my-aether.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🧠_AetherAI-Live_Demo-9945FF?style=for-the-badge&labelColor=0a0a0a" /></a>
 <br/>
-<a href="https://www.linkedin.com/in/dev-patel-277858275/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pateldev098765@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/DevPatel976"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dev-patel-277858275/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pateldev098765@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/DevPatel976" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=devpatel976&style=flat-square&color=00e5ff&label=Profile+Views" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/devpatel976?label=Followers&style=flat-square&color=00e5ff&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/devpatel976?label=Total%20Stars&style=flat-square&color=00e5ff&labelColor=0d1117&affiliations=OWNER" />
 
 </div>
 
@@ -58,7 +60,7 @@ const devPatel = {
 
 <h3 align="center">🚛 Waste On Wheels (WOW)</h3>
 <div align="center">
-<a href="https://waste-on-wheels.vercel.app" target="_blank"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=for-the-badge&logoColor=white" /></a>
+<a href="https://waste-on-wheels.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 
 A **smart waste management system** for cities. Each dustbin uses IoT sensors & microcontrollers to monitor fill levels in real-time. Data flows to a cloud dashboard that generates **optimized collection routes** for garbage trucks.
@@ -86,7 +88,7 @@ A **smart waste management system** for cities. Each dustbin uses IoT sensors & 
 
 <h3 align="center">🧠 AetherAI</h3>
 <div align="center">
-<a href="https://my-aether.vercel.app" target="_blank"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-9945FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://my-aether.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-9945FF?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 
 An **AI-powered automation platform on blockchain**. AI models analyze data & make decisions, while smart contracts execute actions securely. Blockchain keeps everything tamper-proof and transparent.
@@ -204,20 +206,99 @@ The portfolio you might be looking at right now. A cyberpunk-themed developer hu
 
 <div align="center">
 
-<!-- STATS -->
+<!-- STATS + STREAK -->
 <img src="https://github-readme-stats.vercel.app/api?username=devpatel976&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpatel976&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=ffffff&dates=555555" width="49%" />
 
 <br/>
 
-<!-- LANGUAGES + ACTIVITY GRAPH -->
+<!-- LANGUAGES (donut) + CONTRIBUTION ACTIVITY GRAPH (daily/monthly pushes) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel976&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" width="30%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpatel976&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true&custom_title=Contribution%20Graph" width="68%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpatel976&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true&custom_title=Daily%20%2F%20Monthly%20Push%20Activity" width="68%" />
 
 <br/>
 
+<!-- GITHUB METRICS — Commit calendar heatmap + habits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devpatel976&theme=github_dark" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devpatel976&theme=github_dark&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devpatel976&theme=github_dark" width="49%" />
+
+<br/>
+
+<!-- COMMIT CALENDAR — shows daily contribution heatmap -->
+<img src="https://ghchart.rshah.org/00e5ff/devpatel976" alt="Dev Patel's GitHub Contribution Chart" width="98%" />
+
+<br/><br/>
+
 <!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=devpatel976&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Spaceship vs Contribution Grid
+
+<div align="center">
+
+<!-- SPACESHIP ANIMATION — shoots through contribution blocks like Space Invaders -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPatel976/DevPatel976/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPatel976/DevPatel976/output/github-snake.svg" />
+  <img alt="spaceship-contribution-animation" src="https://raw.githubusercontent.com/DevPatel976/DevPatel976/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+> *🛸 Watch the spaceship blast through my contribution blocks!*
+> 
+> To enable this animation, set up the GitHub Action below in your profile repo `DevPatel976/DevPatel976`.
+
+<details>
+<summary><b>⚙️ How to set up the Spaceship/Snake animation (click to expand)</b></summary>
+<br/>
+
+1. Create repo `DevPatel976/DevPatel976` (your profile repo) if it doesn't exist
+2. Create file `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: devpatel976
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab → click **"Generate Snake Animation"** → **"Run workflow"**
+4. The SVGs will auto-generate on the `output` branch and show up in this README!
+
+</details>
 
 </div>
 
@@ -254,22 +335,13 @@ The portfolio you might be looking at right now. A cyberpunk-themed developer hu
 
 ### 🎯 What I'm Up To
 
-🚛 **WOW** is live — optimizing waste collection in real-time → [waste-on-wheels.vercel.app](https://waste-on-wheels.vercel.app)
+🚛 **WOW** is live — optimizing waste collection in real-time → <a href="https://waste-on-wheels.vercel.app" target="_blank" rel="noopener noreferrer">waste-on-wheels.vercel.app</a>
 
-🧠 **AetherAI** is live — autonomous AI agents on blockchain → [my-aether.vercel.app](https://my-aether.vercel.app)
+🧠 **AetherAI** is live — autonomous AI agents on blockchain → <a href="https://my-aether.vercel.app" target="_blank" rel="noopener noreferrer">my-aether.vercel.app</a>
 
-🌐 **Portfolio** — the full engineering lab → [dev-info.in](https://dev-info.in/)
+🌐 **Portfolio** — the full engineering lab → <a href="https://dev-info.in/" target="_blank" rel="noopener noreferrer">dev-info.in</a>
 
 <br/>
-
-<!-- SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpatel976/devpatel976/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpatel976/devpatel976/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/devpatel976/devpatel976/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build+systems+that+think%2C+connect%2C+and+scale.&author=Dev+Patel" />
 
