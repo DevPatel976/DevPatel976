@@ -231,11 +231,6 @@ The portfolio you might be looking at right now. A cyberpunk-themed developer hu
 <!-- COMMIT CALENDAR — shows daily contribution heatmap -->
 <img src="https://ghchart.rshah.org/00e5ff/devpatel976" alt="Dev Patel's GitHub Contribution Chart" width="98%" />
 
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=DevPatel976&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
