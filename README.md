@@ -8,22 +8,16 @@
 
 <br/>
 
-<!-- SOCIAL BADGES — all open in new tab -->
-<a href="https://dev-info.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--info.in-00e5ff?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a href="https://waste-on-wheels.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a href="https://my-aether.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🧠_AetherAI-Live_Demo-9945FF?style=for-the-badge&labelColor=0a0a0a" /></a>
+<!-- SOCIAL BADGES -->
+<img src="https://img.shields.io/badge/🌐_Portfolio-dev--info.in-00e5ff?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🧠_AetherAI-Live_Demo-9945FF?style=for-the-badge&labelColor=0a0a0a" />
 <br/>
 <a href="https://www.linkedin.com/in/dev-patel-277858275/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pateldev098765@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/DevPatel976" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=devpatel976&style=flat-square&color=00e5ff&label=Profile+Views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/devpatel976?label=Followers&style=flat-square&color=00e5ff&labelColor=0d1117" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/devpatel976?label=Total%20Stars&style=flat-square&color=00e5ff&labelColor=0d1117&affiliations=OWNER" />
 
 </div>
 
@@ -301,26 +295,26 @@ jobs:
 ## 🏗️ System Architecture
 
 ```
-                        ╔══════════════════════════════════╗
-                        ║       DEV PATEL's TECH STACK     ║
-                        ╚══════════╦═══════════════════════╝
-                                   ║
-              ╔════════════════════╬════════════════════╗
-              ║                    ║                    ║
-     ┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
-     │   🧠 AI Layer   │ │  ⛓️ Trust Layer │ │  📡 Edge Layer  │
-     │  YOLO, TF, CV   │ │  Aptos, Solana  │ │  ESP32, Sensors │
-     │  PyTorch, HF    │ │  Move, Rust     │ │  MQTT, Arduino  │
-     └────────┬────────┘ └────────┬────────┘ └────────┬────────┘
-              ║                    ║                    ║
-              ╚════════════════════╬════════════════════╝
-                                   ║
-                        ┌──────────▼──────────┐
-                        │  🌐 Application     │
-                        │  Next.js, React     │
-                        │  Node.js, MongoDB   │
-                        │  TypeScript, TW CSS │
-                        └─────────────────────┘
+                  +----------------------------------+
+                  |      DEV PATEL's TECH STACK      |
+                  +----------------+-----------------+
+                                   |
+            +----------------------+----------------------+
+            |                      |                      |
+  +---------v----------+ +---------v----------+ +---------v----------+
+  |     AI Layer       | |    Trust Layer     | |    Edge Layer      |
+  |  YOLO, TF, CV      | |  Aptos, Solana     | |  ESP32, Sensors    |
+  |  PyTorch, HF       | |  Move, Rust        | |  MQTT, Arduino     |
+  +---------+----------+ +---------+----------+ +---------+----------+
+            |                      |                      |
+            +----------------------+----------------------+
+                                   |
+                     +-------------v--------------+
+                     |        Application         |
+                     |      Next.js, React        |
+                     |     Node.js, MongoDB       |
+                     |    TypeScript, TW CSS      |
+                     +----------------------------+
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
