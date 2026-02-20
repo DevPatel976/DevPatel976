@@ -234,7 +234,7 @@ The portfolio you might be looking at right now. A cyberpunk-themed developer hu
 <br/><br/>
 
 <!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=devpatel976&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevPatel976&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
