@@ -10,7 +10,7 @@
 
 <!-- SOCIAL BADGES -->
 <a href="https://dev-info.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-dev--info.in-00e5ff?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a><img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" /></a>
+<img src="https://img.shields.io/badge/🚛_WOW-Live_Demo-22c55e?style=for-the-badge&labelColor=0a0a0a" />
 <a href="https://my-aether.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🧠_AetherAI-Live_Demo-9945FF?style=for-the-badge&labelColor=0a0a0a" /></a>
 <br/>
 <a href="https://www.linkedin.com/in/dev-patel-277858275/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
