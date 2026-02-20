@@ -212,9 +212,8 @@ The portfolio you might be looking at right now. A cyberpunk-themed developer hu
 
 <br/>
 
-<!-- LANGUAGES (donut) + CONTRIBUTION ACTIVITY GRAPH (daily/monthly pushes) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel976&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" width="30%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpatel976&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true&custom_title=Daily%20%2F%20Monthly%20Push%20Activity" width="68%" />
+<!-- CONTRIBUTION ACTIVITY GRAPH (daily/monthly pushes) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpatel976&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true&custom_title=Daily%20%2F%20Monthly%20Push%20Activity" width="98%" />
 
 <br/>
 
